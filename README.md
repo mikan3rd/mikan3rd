@@ -16,6 +16,6 @@
 - Docker
 
 ## :globe_with_meridians: Links
-- [LAPRAS](https://lapras.com/public/PSOCHNH)
-- [Qiita](http://qiita.com/mikan3rd )
-- [Twitter](https://twitter.com/mikan_the_third)
+- [:speaking_head: LAPRAS](https://lapras.com/public/PSOCHNH)
+- [:green_book: Qiita](http://qiita.com/mikan3rd )
+- [:bird: Twitter](https://twitter.com/mikan_the_third)
