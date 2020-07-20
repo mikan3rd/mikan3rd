@@ -4,6 +4,7 @@
 - Redux
 - redux-saga
 - styled-components
+- eslint
   
 # :star: Sub Skill
 - Gatsby
